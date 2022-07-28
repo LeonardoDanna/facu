@@ -1,7 +1,7 @@
 ## Leonardo Danna
 
-[Me siga no GitHub!](https://github.com/LeonardoDanna).
-[Me siga no Instagram!](https://www.instagram.com/leosd__/?hl=pt-br).
+[Me siga no GitHub!](https://github.com/LeonardoDanna) | 
+[Me siga no Instagram!](https://www.instagram.com/leosd__/?hl=pt-br)
 
 ### Quem eu sou?
 

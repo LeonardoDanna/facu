@@ -4,9 +4,9 @@ Me siga no GitHub! [personal page on GitHub](https://github.com/LeonardoDanna).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Quem eu sou?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Atualmente sou um estudante de sistemas de informação na PUCCAMP. Estou me desenvolvendo principalmente em Python e desenvolvimento Web.
 
 ```markdown
 Syntax highlighted code block
